@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 First-year Cyber Security student<br><br>💻 Skilled in Python, C, and MySQL<br><br>🔍 Interested in penetration testing, incident response, and digital forensics<br><br>🎯 My goal is to become a Security Engineer and contribute to building robust and secure systems<br><br>📚 Always learning and experimenting with tools, scripts, and security concepts
 
 
